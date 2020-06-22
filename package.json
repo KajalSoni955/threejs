@@ -1,0 +1,28 @@
+{
+  "name": "three",
+  "version": "1.0.0",
+  "description": "testing animations",
+  "main": "index.js",
+  "scripts": {
+    "test": "c",
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KajalSoni955/threejs.git"
+  },
+  "keywords": [
+    "three.js",
+    "testing"
+  ],
+  "author": "kajal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KajalSoni955/threejs/issues"
+  },
+  "homepage": "https://github.com/KajalSoni955/threejs#readme",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
